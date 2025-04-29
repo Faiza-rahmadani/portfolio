@@ -1,0 +1,39 @@
+body {
+  min-height: auto;
+}
+.jumbotron {
+  padding-top: 11rem;
+  overflow: hidden;
+}
+
+img {
+  max-width: 50vh;
+}
+
+#projects {
+  background-color: #edddfa;
+  overflow: hidden;
+}
+
+.popup-img {
+  cursor: pointer;
+  transition: 0.3s ease;
+  border-radius: 6px;
+  max-width: 100%;
+}
+
+.popup-img:hover {
+  transform: scale(1.03);
+}
+
+.popup-img::after {
+  content: "";
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 999;
+}
