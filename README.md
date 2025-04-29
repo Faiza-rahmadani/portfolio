@@ -3,13 +3,13 @@
 **Student | SMA (Sekolah Menengah Atas)**
 
 Selamat datang di portofolio saya!  
-Saya Faiza Rahmadani Wijaya, seorang pelajar yang bersemangat untuk terus belajar, berkembang, dan memberikan kontribusi positif di masa depan.
+Saya Faiza Rahmadani Wijaya, seorang pelajar perempuan yang bersemangat untuk terus belajar, berkembang, dan memberikan kontribusi positif di masa depan.
 
 ---
 
 ## 🧑 Tentang Saya
 
-Saya adalah pelajar yang memiliki semangat tinggi dalam belajar dan mengembangkan diri.  
+Saya adalah siswi yang memiliki semangat tinggi dalam belajar dan mengembangkan diri.  
 Saya senang bertemu dengan orang-orang baru, berbagi pengalaman, dan percaya bahwa **pendidikan adalah kunci untuk mencapai impian dan membawa perubahan di dunia**.
 
 Saya percaya bahwa **inovasi membuka pintu-pintu baru**, dan dengan rasa ingin tahu yang besar, saya terus mencari cara untuk berkembang dan berkontribusi secara positif.
